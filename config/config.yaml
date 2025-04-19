@@ -1,0 +1,7 @@
+host: localhost
+port: "5432"
+user: postgres
+password: admin
+name: auth_service
+jwt_secret: ""
+server_port: "8081"
